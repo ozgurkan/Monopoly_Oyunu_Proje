@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{423CA53B-7243-4C58-9E7F-438C88045225}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Monopoly</RootNamespace>
+    <AssemblyName>Monopoly</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AcilisFormu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AcilisFormu.Designer.cs">
+      <DependentUpon>AcilisFormu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AcilisFormu.resx">
+      <DependentUpon>AcilisFormu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Resources\k13.psd" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arkaplan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\k9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\k10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\k11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\k12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\k15.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\k16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\k19.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\k21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\k22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\k24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\k26.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\k29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\k30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\k31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\k32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\k111.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KamuFonuArkaplan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MadenArastırmaArkaplan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\şasnkartlarıarkaplan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\k1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\k2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\k3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\k4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\k5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\k6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\k7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\k8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\k20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\k36.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\k13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\k14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\k17.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bes.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bir.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dort.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\altı.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iki.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uc.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DonenZar.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\madenarastırma.GIF" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\panel2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\player.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yardım.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yenioyun.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ayarlar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giris.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\82.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
