@@ -1,0 +1,24 @@
+C:\Users\özgür\documents\visual studio 2010\Projects\Monopoly\Monopoly\bin\Debug\Monopoly.exe
+C:\Users\özgür\documents\visual studio 2010\Projects\Monopoly\Monopoly\bin\Debug\Monopoly.pdb
+C:\Users\özgür\documents\visual studio 2010\Projects\Monopoly\Monopoly\obj\x86\Debug\Monopoly.csprojResolveAssemblyReference.cache
+C:\Users\özgür\documents\visual studio 2010\Projects\Monopoly\Monopoly\obj\x86\Debug\Monopoly.Properties.Resources.resources
+C:\Users\özgür\documents\visual studio 2010\Projects\Monopoly\Monopoly\obj\x86\Debug\Monopoly.csproj.GenerateResource.Cache
+C:\Users\özgür\documents\visual studio 2010\Projects\Monopoly\Monopoly\obj\x86\Debug\Monopoly.exe
+C:\Users\özgür\documents\visual studio 2010\Projects\Monopoly\Monopoly\obj\x86\Debug\Monopoly.pdb
+C:\Users\özgür\documents\visual studio 2010\Projects\Monopoly\Monopoly\obj\x86\Debug\Monopoly.FrmOyunAlanı.resources
+C:\Users\özgür\documents\visual studio 2010\Projects\Monopoly\Monopoly\obj\x86\Debug\Monopoly.AcilisFormu.resources
+C:\Users\özgür\documents\visual studio 2010\Projects\Monopoly\Monopoly\obj\x86\Debug\Monopoly.FrmOyunAlanı1.resources
+C:\Users\özgür\documents\visual studio 2010\Projects\Monopoly\Monopoly\bin\Debug\veritabani.accdb
+C:\Users\özgür\documents\visual studio 2010\Projects\Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+D:\Üniversite Dersleri\Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+D:\Üniversite Dersleri\Monopoly\Monopoly\obj\x86\Debug\Monopoly.exe
+D:\Üniversite Dersleri\Monopoly\Monopoly\obj\x86\Debug\Monopoly.pdb
+D:\Üniversite Dersleri\Monopoly\Monopoly\bin\Debug\veritabani.accdb
+D:\Üniversite Dersleri\Monopoly\Monopoly\bin\Debug\Monopoly.exe
+D:\Üniversite Dersleri\Monopoly\Monopoly\bin\Debug\Monopoly.pdb
+D:\Üniversite Dersleri\Monopoly\Monopoly\obj\x86\Debug\Monopoly.csprojResolveAssemblyReference.cache
+D:\Üniversite Dersleri\Monopoly\Monopoly\obj\x86\Debug\Monopoly.AcilisFormu.resources
+D:\Üniversite Dersleri\Monopoly\Monopoly\obj\x86\Debug\Monopoly.FrmOyunAlanı.resources
+D:\Üniversite Dersleri\Monopoly\Monopoly\obj\x86\Debug\Monopoly.FrmOyunAlanı1.resources
+D:\Üniversite Dersleri\Monopoly\Monopoly\obj\x86\Debug\Monopoly.Properties.Resources.resources
+D:\Üniversite Dersleri\Monopoly\Monopoly\obj\x86\Debug\Monopoly.csproj.GenerateResource.Cache
