@@ -1,7 +1,6 @@
 # 2013-2014 BAHAR DÖNEMİ GÖRSEL PROGRAMLAMA-II DÖNEM PROJESİ Monopoly Oyunu
 
-# Projenin Adı:
-Monopoly Oyunu
+# Projenin Adı: Monopoly Oyunu
 
 
 # Projenin Amacı ve Hedefleri:	
