@@ -7,7 +7,9 @@ Monopoly Oyunu
 Projenin Amacı ve Hedefleri:	
 
 1-Herkesin severek oynayacağı bir oyun yapmak
+
 2-Oyunu oynayanların hem eğlenmesini hem de öğrenmesini sağlamak
+
 3-Sade ve basit bir oynanış tarzıyla oyuncuların sıkılmasını önlemek
 
 
